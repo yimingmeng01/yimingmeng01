@@ -9,4 +9,5 @@
 - ✍️ [Blogger](https://haysc.tech)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess 
+- ♟ Chinese Chess / Chess
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yimingmeng01)](https://github.com/anuraghazra/github-readme-stats)
