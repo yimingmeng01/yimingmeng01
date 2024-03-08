@@ -11,3 +11,4 @@
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yimingmeng01)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yimingmeng01&count_private=true)
